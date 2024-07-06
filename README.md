@@ -2,6 +2,9 @@
 <h3 >Final Year Computer Science and Engineering Student at National Institute of Technology, Hamirpur</h3>
 
 Feel free to reach out to me via email **adityagargfr@gmail.com** or connect with me on LinkedIn
+
+
+
 <img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/146759880545142160/02F5B993DC85C9789EC557D1FCB3D16740D4A8C1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
