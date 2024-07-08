@@ -10,7 +10,7 @@ Feel free to reach out to me via email **adityagargfr@gmail.com** or connect wit
 <p align="left">
 <a href="https://linkedin.com/in/igargaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igargaditya" height="30" width="40" /></a>
 <a href="https://twitter.com/aditya_garg217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya_garg217" height="30" width="40" /></a>
-<a href="https://instagram.com/adityagarg217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityagarg217" height="30" width="40" /></a>
+<a href="https://instagram.com/aditya_garg21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityagarg217" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Data Structures and Algorithms Socials:</h3>
