@@ -6,16 +6,19 @@ Feel free to reach out to me via email **adityagargfr@gmail.com** or connect wit
 
 
 <img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/146759880545142160/02F5B993DC85C9789EC557D1FCB3D16740D4A8C1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/igargaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igargaditya" height="30" width="40" /></a>
 <a href="https://twitter.com/aditya_garg217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya_garg217" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya_garg21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityagarg217" height="30" width="40" /></a>
- <a href="[https://instagram.com/aditya_garg21](https://www.reddit.com/user/AdeptnessNew8008/)" target="blank"><img align="center" src="https://images.squarespace-cdn.com/content/v1/5c5554d316b64061c6f8a20d/1630949829757-WXNOUZ8R4QQCXMIY4YMG/What-Is-The-Reddit-Logo-Called.png" alt="adityagarg217" height="39" width="40" /></a>
+ <a href="https://www.reddit.com/user/AdeptnessNew8008/" target="blank"><img align="center" src="https://images.squarespace-cdn.com/content/v1/5c5554d316b64061c6f8a20d/1630949829757-WXNOUZ8R4QQCXMIY4YMG/What-Is-The-Reddit-Logo-Called.png" alt="adityagarg217" height="39" width="40" /></a>
+ <a href="https://discord.gg/https://discord.gg/UEe9rzZzGA" target="blank"><img align="center" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="adityagarg217" height="30" width="40" /></a>
+
  
 </p>
 
-<h3 align="left">Data Structures and Algorithms Socials:</h3>
+
+<h3 align="left">📜 Data Structures and Algorithms Socials: </h3>
 <p align="left">
  <a href="https://www.codechef.com/users/adityagargfr" target="blank"><img align="center" src="https://coding75.com/_next/static/media/codechef.f5d6ccca.png" alt="adityagargfr" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/adityagargfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adityagargfr" height="30" width="40" /></a>
@@ -24,7 +27,7 @@ Feel free to reach out to me via email **adityagargfr@gmail.com** or connect wit
  <a href="https://www.naukri.com/code360/profile/390fe151-ed51-4aa9-9eaa-9ccfcf0cfd01" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9t9UxtLvKlyy9ziOJMyMHBRAukK7jgFYLmw&s" alt="adityagargfr" height="35" width="35" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
