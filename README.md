@@ -11,8 +11,7 @@ Feel free to reach out to me via email **adityagargfr@gmail.com** or connect wit
 <a href="https://linkedin.com/in/igargaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igargaditya" height="30" width="40" /></a>
 <a href="https://twitter.com/aditya_garg217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya_garg217" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya_garg21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityagarg217" height="30" width="40" /></a>
- <a href="https://www.reddit.com/user/AdeptnessNew8008/" target="blank"><img align="center" src="https://images.squarespace-cdn.com/content/v1/5c5554d316b64061c6f8a20d/1630949829757-WXNOUZ8R4QQCXMIY4YMG/What-Is-The-Reddit-Logo-Called.png" alt="adityagarg217" height="39" width="40" /></a>
- <a href="https://discord.com/invite/UEe9rzZzGA" target="blank"><img align="center" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="adityagarg217" height="30" width="40" /></a>
+
 
  
 </p>
