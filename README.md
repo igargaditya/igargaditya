@@ -5,7 +5,7 @@
 <a href="https://drive.google.com/drive/u/2/folders/1jch8mwiA-xG7m8mkz02aJJvzVyGi9G2G" target="blank"><img align="center" src="https://github.com/user-attachments/assets/6945e01e-c977-47a2-b41c-5ae3a0fa7d3c" alt="igargaditya" height="50" width="50" /></a>
 <h3></h3>
 
-Feel free to reach out to me via email **adityagargfr@gmail.com** or connect with me on LinkedIn
+Feel free to reach out to me via email **adityagargfr@gmail.com**
 
 
 
