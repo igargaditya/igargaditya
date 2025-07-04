@@ -1,5 +1,6 @@
 <h1 align="center">Hi,I'm Aditya Garg</h1>
-<h3 >Final Year Computer Science and Engineering Student at National Institute of Technology, Hamirpur</h3>
+<h3 >Computer Science and Engineering Graduate from National Institute of Technology, Hamirpur</h3>
+<h4> Current Location : Gurgraon, Haryana </h4>
 
 Feel free to reach out to me via email **adityagargfr@gmail.com** or connect with me on LinkedIn
 
