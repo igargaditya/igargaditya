@@ -1,13 +1,14 @@
 <h1 align="center">Hi,I'm Aditya Garg</h1>
+<h2> Memeber of Technical Staff @ Datametica Birds (An Onix Company) </h2>
 <h3 >Computer Science and Engineering Graduate from National Institute of Technology, Hamirpur</h3>
 <img align="right" height="150" src="https://i.pinimg.com/originals/d8/04/d3/d804d3e5aa5f5809fc97d110c33d139c.gif"  />
-<h4> Current Location : Gurgraon, Haryana </h4>
+<h4> Current Location : Pune, Maharashtra </h4>
 <a href="https://drive.google.com/drive/u/2/folders/1jch8mwiA-xG7m8mkz02aJJvzVyGi9G2G" target="blank"><img align="center" src="https://github.com/user-attachments/assets/6945e01e-c977-47a2-b41c-5ae3a0fa7d3c" alt="igargaditya" height="50" width="50" /></a>
 <h3></h3>
 
 Feel free to reach out to me via email **adityagargfr@gmail.com**
 
-
+<h3 align="left">Currently Working on - Java, Google Cloud Services</h3>
 
 
 <h3 align="left">🔗 Connect with me:</h3>
